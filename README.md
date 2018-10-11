@@ -3,8 +3,8 @@ University project "European Open Banking for credit risk analysis" given by Scy
 
 #Contributors
 
-[Diana] (https://github.com/diisnc)
-[Marco] (https://github.com/mas97)
-[Vitor] (https://github.com/VitorPeixoto97)
-[Daniel] (https://github.com/SilentLynx)
-[Tiago]  (https://github.com/tdaa)
+[Diana](https://github.com/diisnc)
+[Marco](https://github.com/mas97)
+[Vitor](https://github.com/VitorPeixoto97)
+[Daniel](https://github.com/SilentLynx)
+[Tiago](https://github.com/tdaa)
